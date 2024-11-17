@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Zezhao Guo.
+## 👋 Hi, I'm Zezhao Guo, a committed autodidact.
 ## 👀 I'm interested in AI4S, especially in AI + healthcare.
 ## 🌱 I like to play casual games such as BrawStar in my free time and use workout to refresh myself everyday.
 ## 👯 I’m looking to collaborate on interesting projects about AI + healthcare.
