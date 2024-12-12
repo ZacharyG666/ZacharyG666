@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Zezhao Guo, a committed autodidact.
-## 👀 I'm interested in AI4S, especially in AI + healthcare.
-## 👯 I’m looking to collaborate on interesting projects about AI + healthcare.
+## 👀 I'm interested in AI or AI application like AI + healthcare.
+## 👯 I’m looking to collaborate on interesting projects about AI.
 ## 🌱 In my free time, I use workout to refresh myself.
 ## 📫 How to reach me: guozezhaozz@gmail.com
 
